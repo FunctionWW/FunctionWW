@@ -1,6 +1,8 @@
 <h1 align="center">🌿My name is Shuhan(Function) Wang.</h1>
 <h3 align="center">Data Science Explorer.</h3>
 
+- ✨ I’m interested in **Large Language Models, Natural Language Processing and Machine Learning.**
+
 - 🔭 I’m currently working on **Big Tech, AI.**
 
 - 📫 How to reach me **functionwang41@gmail.com**
